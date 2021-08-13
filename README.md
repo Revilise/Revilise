@@ -14,3 +14,4 @@
 Если захотите пообщаться, моя личка всегда открыта :P
 
 <a href="https://vk.com/revilise">✉️ vk.com/revilise </a>
+<a href="https://twitter.com/revilise_">twitter.com/revilise_</a>
