@@ -1,4 +1,7 @@
-<img src="https://www.codewars.com/users/Revilise/badges/small"/>
+<span>
+  <img src="https://www.codewars.com/users/Revilise/badges/small"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ </span>
 - 👋 Hello world, I'm @Revilise!          
 Можно просто звать меня Настя.
 
