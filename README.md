@@ -1,7 +1,4 @@
-<span>
-  <img src="https://www.codewars.com/users/Revilise/badges/small"/>
-  <img style="margin-left: 32px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- </span>
+ <img src="https://www.codewars.com/users/Revilise/badges/small"/>
 
 - 👋 Hello world, I'm @Revilise!          
 Можно просто звать меня Настя.
@@ -20,6 +17,8 @@
 
 - 🔍Я ищу единомышленников, с которыми можно было бы создавать крутые штуки.
 Если захотите пообщаться и/или позвать на собес, моя личка всегда открыта :P
+
+<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 
 <a target="_blank" href="https://vk.com/revilise">✉️ vk.com/revilise </a><br/>
 <a target="_blank" href="https://twitter.com/revilise_">✏️twitter.com/revilise_</a>
