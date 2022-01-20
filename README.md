@@ -8,11 +8,11 @@
 Здесь изучаю такие языки как SQL, C#, C++.
 - 💾 Мой стек:
   - JavaScript,  
-  - React+Redux,
+  - React,
+  - Redux, Redux Toolkit
   - CSS/SCSS,
   - HTML
-  - Ms SQL Server, PostgreSQL, MongoDB
-  - NodeJs,
+  - Ms SQL Server, PostgreSQL
   - Express
 
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
