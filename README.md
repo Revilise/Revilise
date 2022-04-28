@@ -21,3 +21,4 @@
 
 <a target="_blank" href="https://vk.com/revilise">✉️ vk.com/revilise </a><br/>
 <a target="_blank" href="https://twitter.com/revilise_">✏️twitter.com/revilise_</a>
+<a target="_blank" href="https://t.me/Revilise">💬t.me/Revilise</a>
