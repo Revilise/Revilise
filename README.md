@@ -9,7 +9,7 @@
   - JavaScript,  
   - React,
   - Redux, Redux Toolkit
-  - CSS/SCSS/CSS in js/,
+  - CSS/SCSS/CSS in js,
   - HTML
   - Ms SQL Server, PostgreSQL
   - Express
