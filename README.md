@@ -21,5 +21,5 @@
 
 <a target="_blank" href="https://vk.com/revilise">✉️ vk.com/revilise </a><br/>
 <a target="_blank" href="https://twitter.com/revilise_">✏️twitter.com/revilise_</a><br/>
-<a target="_blank" href="https://t.me/Revilise">💬t.me/Revilise</a>
+<a target="_blank" href="https://t.me/Revilise">💬t.me/Revilise</a><br/>
 <a target="_blank" href="https://www.figma.com/proto/AOSJFgBRso8alLtn56qGMY/RESUME?page-id=0%3A1&node-id=2%3A2">моё резюме на русском и английском</a>
