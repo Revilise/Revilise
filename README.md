@@ -13,6 +13,7 @@
   - HTML
   - Ms SQL Server, PostgreSQL
   - Express
+  - Next.js
 
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 
