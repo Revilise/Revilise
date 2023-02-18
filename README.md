@@ -18,7 +18,7 @@
   - Next.js
 - 🔥 Могу-умею помимо основного стека:
   - Java + Android Studio
-  - C# + WPF + MVVM
+  - C# + WPF + EF +MVVM
   - Конечно же ООП
 
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
