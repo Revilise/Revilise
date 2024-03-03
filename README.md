@@ -8,17 +8,17 @@
 
 - 📚 Закончила ИСПО Политех по направлению "информационные системы и программирование".
 - 💾 Мой основной стек:
-  - JavaScript,  
-  - React,
+  - JavaScript, Typescript
+  - React, React Native
   - Redux, Redux Toolkit
   - CSS/SCSS/CSS in js,
-  - HTML
-  - Ms SQL Server, PostgreSQL, MySQL
-  - Express
-  - Next.js
-- 🔥 Могу-умею помимо основного стека:
+  - HTML, ejs, hbs
+  - Ms SQL Server, PostgreSQL, MySQL, MongoDB
+  - Express, Strapi, Sails, Next, Nest
+  - Webpack
+- 🔥 Могу-умею-знаю помимо основного стека:
   - Java + Android Studio
-  - C# + WPF + EF +MVVM
+  - C# + WPF + EF + MVVM
   - Конечно же ООП
 
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
